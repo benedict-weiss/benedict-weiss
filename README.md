@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Edited for CS323!
+Name: Ben Weiss
+Email: ben.weiss@yale.edu
 
 <!--
 **benedict-weiss/benedict-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
