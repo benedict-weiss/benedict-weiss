@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Name: Ben Weiss\n
+Name: Ben Weiss
 Email: ben.weiss@yale.edu
 
 <!--
